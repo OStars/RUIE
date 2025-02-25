@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+deepspeed
+tqdm
+retriv
+absl-py
+vllm
