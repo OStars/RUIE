@@ -13,7 +13,7 @@ python -m pip install -r requirements.txt
 
 ## Datasets
 
-We mainly use [IE INSTRUCTION](https://github.com/BeyonderXX/InstructUIE), [RAMS](https://nlp.jhu.edu/rams/), [Wikievents](https://github.com/raspberryice/gen-arg) and [CrudeOilNews](https://github.com/meisin/CrudeOilNews-Corpus) to construct our training data and test data. The processed dataset will be published soon.
+We mainly use [IE INSTRUCTION](https://github.com/BeyonderXX/InstructUIE), [RAMS](https://nlp.jhu.edu/rams/), [Wikievents](https://github.com/raspberryice/gen-arg) and [CrudeOilNews](https://github.com/meisin/CrudeOilNews-Corpus) to construct our training data and test data. You can download the processed dataset by [Google Drive](https://drive.google.com/file/d/1MTfEp8ZT14gSatbFSiPR6RE_PdZ7rz2i/view) or [Baidu Disk](https://pan.baidu.com/s/1dy5SMbNirI3tjF3Jh6lpgw?pwd=d5ci).
 
 ## Training & Evaluation
 
